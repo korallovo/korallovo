@@ -4,7 +4,13 @@
 
 @charset "utf-8";
 
+.greedy-nav a.site-title { color: #00b85f; }
+.greedy-nav a.site-title:hover { color: #00b85f; }
+.greedy-nav .visible-links a, .greedy-nav .hidden-links a { color: #222423 !important; }
+.greedy-nav .visible-links a:hover, .greedy-nav .hidden-links a:hover { color: #00b85f !important; }
+.greedy-nav .visible-links a:before { background: #00b85f !important; }
 .notice--info { overflow: hidden; }
+.page__footer-follow { display: none; }
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
