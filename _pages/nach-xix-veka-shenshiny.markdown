@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 'Нач. XIX века. Шеншины.'
+title: 'Нач. XIX века. Шеншины'
 permalink: /nach-xix-veka-shenshiny
 classes: wide
 gallery:
@@ -350,5 +350,5 @@ gallery:
 ![full](/assets/images/36fec2bb9ad448c636b01166ec9e70b5.jpg)
 {: .full}
 
-Оригинал страницы тут [https://web.archive.org/web/20181015105337/http://korallovo.com/gallery](https://web.archive.org/web/20181015105337/http://korallovo.com/gallery)
+Оригинал страницы тут [https://web.archive.org/web/20181015105506/http://korallovo.com/services](https://web.archive.org/web/20181015105506/http://korallovo.com/services)
 {: .notice--info}
