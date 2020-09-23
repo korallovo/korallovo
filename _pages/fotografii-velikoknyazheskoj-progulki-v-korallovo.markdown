@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 'Фотографии великокняжеской прогулки в Кораллово'
+title: 'Фотографии великокняжеской прогулки'
 permalink: /fotografii-velikoknyazheskoj-progulki-v-korallovo
 classes: wide
 gallery:
