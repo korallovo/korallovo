@@ -236,19 +236,19 @@ gallery:
 
 *Ссылки*
 
-*(1) Усадьба Кораллово. Сайт Храмы Подмосковья http://www.vidania.ru/temple/temple_mosobl/usadba_koralovo.html*
+*(1) Усадьба Кораллово. [Сайт Храмы Подмосковья](http://www.vidania.ru/temple/temple_mosobl/usadba_koralovo.html)*
 
 *(2) Интервью с архитектором М. Хазановым*
 
 *(3) Воспоминания А. С. Нечаева*
 
-*(4) Усадьба Кораллово. Сайт Храмы Подмосковья http://www.vidania.ru/temple/temple_mosobl/usadba_koralovo.html*
+*(4) Усадьба Кораллово. [Сайт Храмы Подмосковья](http://www.vidania.ru/temple/temple_mosobl/usadba_koralovo.html)*
 
 *(5) Проект охраны зон бывшей усадьбы Кораллово. 1992 г. Москва*
 
-*(6) Михаил Ардов. «Матушка Надежда и прочие невыдуманные рассказы» 1998 Г. часть. 3.*
+*(6) Михаил Ардов. «Матушка Надежда и прочие невыдуманные рассказы» 1998 г. часть. 3*
 
-*(7) Усадьба Кораллово. Сайт Храмы Подмосковья http://www.vidania.ru/temple/temple_mosobl/usadba_koralovo.html*
+*(7) Усадьба Кораллово. [Сайт Храмы Подмосковья](http://www.vidania.ru/temple/temple_mosobl/usadba_koralovo.html)*
 
 *(8) Интервью с местными жителями*
 
