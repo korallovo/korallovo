@@ -12,8 +12,8 @@ gallery:
     image_path: /assets/images/full_yYTb8qqq.jpg
     alt: "Автор: Евгений Травин. Директор Коралловского Лицея, учитель истории с 2007 по 2016 год"
     title: "Автор: Евгений Травин. Директор Коралловского Лицея, учитель истории с 2007 по 2016 год"
-  - url: /assets/images/full_uewIo3dZ.jpg
-    image_path: /assets/images/full_uewIo3dZ.jpg
+  - url: /assets/images/full_IeESwg2T.png
+    image_path: /assets/images/full_IeESwg2T.png
     alt: "Коралловская часовня на месте разрушенной церкви"
     title: "Коралловская часовня на месте разрушенной церкви"
 ---
