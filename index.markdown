@@ -3,6 +3,19 @@ layout: single
 title: "От автора"
 permalink: /
 classes: wide
+gallery:
+  - url: /assets/images/full_uewIo3dZ.jpg
+    image_path: /assets/images/full_uewIo3dZ.jpg
+    alt: "Снимок территории Кораллово"
+    title: "Снимок территории Кораллово"
+  - url: /assets/images/full_yYTb8qqq.jpg
+    image_path: /assets/images/full_yYTb8qqq.jpg
+    alt: "Автор: Евгений Травин. Директор Коралловского Лицея, учитель истории с 2007 по 2016 год"
+    title: "Автор: Евгений Травин. Директор Коралловского Лицея, учитель истории с 2007 по 2016 год"
+  - url: /assets/images/full_uewIo3dZ.jpg
+    image_path: /assets/images/full_uewIo3dZ.jpg
+    alt: "Коралловская часовня на месте разрушенной церкви"
+    title: "Коралловская часовня на месте разрушенной церкви"
 ---
 
 ## От автора
@@ -41,6 +54,8 @@ classes: wide
 Травин Евгений.*
 
 ## Введение
+
+{% include gallery %}
 
 История – могучее понятие более применимое к жизни государства, а не отдельной
 местности. Для истории главное тенденции, явления, в крайнем случае, великие
